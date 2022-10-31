@@ -1,4 +1,3 @@
-
 # _Pet Store API_
 
 ## _Instalacion_
